@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Dynamic Programming
 |  |
