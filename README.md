@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 ## Greedy
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
