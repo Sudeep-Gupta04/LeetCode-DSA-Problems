@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0213-house-robber-ii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
