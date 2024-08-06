@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 ## Memoization
