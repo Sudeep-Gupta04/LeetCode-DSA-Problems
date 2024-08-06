@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
+| [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 ## Greedy
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
