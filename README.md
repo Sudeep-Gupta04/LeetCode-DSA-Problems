@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Dynamic Programming
 |  |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
