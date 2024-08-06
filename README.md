@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0136-single-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
