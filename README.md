@@ -132,16 +132,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
