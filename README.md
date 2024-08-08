@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
@@ -380,10 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
