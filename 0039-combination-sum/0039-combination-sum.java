@@ -12,7 +12,7 @@ class Solution {
             return;
         }
         
-        if(target<0 || idx == candidates.length) return;
+        if(target<0) return;
             
          for(int q =idx;q<candidates.length;q++){
             seq.add(candidates[q]);
