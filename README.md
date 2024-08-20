@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0525-contiguous-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
