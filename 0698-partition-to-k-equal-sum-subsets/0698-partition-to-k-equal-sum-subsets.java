@@ -8,7 +8,7 @@ public class Solution {
             return false;
         }
 
-        //Arrays.sort(nums);
+        Arrays.sort(nums);
         int targetBucketSum = total / k;
         boolean[] visited = new boolean[nums.length];
         return canPartition(nums, visited, 0, k, 0, targetBucketSum);
