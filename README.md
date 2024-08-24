@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
