@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0135-candy) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0135-candy](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
