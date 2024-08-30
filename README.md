@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
