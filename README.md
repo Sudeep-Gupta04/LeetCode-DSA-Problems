@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0045-jump-game-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
