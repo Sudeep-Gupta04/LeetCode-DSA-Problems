@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0041-first-missing-positive) |
