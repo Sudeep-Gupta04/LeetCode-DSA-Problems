@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
