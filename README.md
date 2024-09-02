@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
+| [0414-third-maximum-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0575-distribute-candies) |
