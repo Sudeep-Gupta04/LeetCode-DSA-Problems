@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0525-contiguous-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
