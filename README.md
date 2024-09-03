@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Dynamic Programming
