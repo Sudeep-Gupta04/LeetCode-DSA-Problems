@@ -33,3 +33,24 @@ class Solution {
 // 3 2 -1 3 0 4 -3  0 4 -7 8
 // pre - 3 6 -6 -18 _ 4 -12 _ 4 -28 -196
 // suf -      3  -12  -3  -224   -56  8 
+
+// class Solution {
+//     public int maxProduct(int[] nums) {
+//         int maxi=Integer.MIN_VALUE;
+//         int prod=1;
+//         for(int i=0;i<nums.length;i++){
+//             prod*=nums[i];
+//             maxi=Math.max(maxi,prod);
+//             if(prod==0)
+//                 prod=1;
+//         }
+//         prod=1;
+//         for(int i=nums.length-1;i>=0;i--){
+//             prod*=nums[i];
+//             maxi=Math.max(maxi,prod);
+//             if(prod==0)
+//                 prod=1;
+//         }
+//         return maxi;
+//     }
+// }
