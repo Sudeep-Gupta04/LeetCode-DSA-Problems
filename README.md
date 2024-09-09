@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [3031-construct-product-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3031-construct-product-matrix) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
