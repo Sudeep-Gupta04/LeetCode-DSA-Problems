@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Combinatorics
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3031-construct-product-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3031-construct-product-matrix) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Queue
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
