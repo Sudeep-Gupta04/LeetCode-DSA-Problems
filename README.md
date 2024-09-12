@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2048-build-array-from-permutation) |
