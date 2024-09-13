@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Combinatorics
 |  |
