@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1830-count-good-meals) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2048-build-array-from-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
