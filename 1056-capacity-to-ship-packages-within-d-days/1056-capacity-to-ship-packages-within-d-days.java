@@ -25,6 +25,7 @@ class Solution {
                 d = d+1;
                 cap -= nums[i];
             }
+            if(d>days) return false;
         }
         return d<=days;
     }
