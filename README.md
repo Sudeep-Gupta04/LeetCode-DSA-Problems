@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Divide and Conquer
