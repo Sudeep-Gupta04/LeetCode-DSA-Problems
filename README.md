@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
