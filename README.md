@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-count-good-meals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1830-count-good-meals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3031-construct-product-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3031-construct-product-matrix) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2478-longest-nice-subarray) |
