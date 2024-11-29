@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
+| [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
+| [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2383-add-two-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2383-add-two-integers) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Tree
 |  |
 | ------- |
