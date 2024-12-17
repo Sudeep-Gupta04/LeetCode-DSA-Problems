@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
