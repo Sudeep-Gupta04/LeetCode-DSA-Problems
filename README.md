@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2089-maximum-matrix-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
+| [2089-maximum-matrix-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2089-maximum-matrix-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2411-spiral-matrix-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
