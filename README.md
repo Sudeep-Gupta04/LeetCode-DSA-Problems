@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-decode-the-slanted-ciphertext](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
