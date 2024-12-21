@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Topological Sort
 |  |
 | ------- |
