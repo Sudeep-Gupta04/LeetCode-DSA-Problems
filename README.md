@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3427-special-array-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3427-special-array-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3427-special-array-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Combinatorics
 |  |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3031-construct-product-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3031-construct-product-matrix) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3427-special-array-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3427-special-array-ii) |
 ## Queue
 |  |
 | ------- |
