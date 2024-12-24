@@ -1,45 +1,47 @@
 class Solution {
+    int redundantEdges = 0;
+
     public int makeConnected(int n, int[][] connections) {
-        if (connections.length < n - 1) return -1; 
+        if (connections.length < n - 1) return -1; // Not enough edges to connect all nodes
 
         ArrayList<ArrayList<Integer>> al = new ArrayList<>();
+        
+        // Initialize adjacency list
         for (int i = 0; i < n; i++) {
             al.add(new ArrayList<>());
         }
 
+        // Add connections to adjacency list
         for (int[] connection : connections) {
             al.get(connection[0]).add(connection[1]);
             al.get(connection[1]).add(connection[0]);
         }
 
         boolean[] vis = new boolean[n];
-        int components = 0;
-        int redundantEdges = 0;
-
+        int components = 0; // Count connected components
+        
+        // DFS to count components and redundant edges
         for (int i = 0; i < n; i++) {
             if (!vis[i]) {
                 components++;
-                redundantEdges += dfs(i, -1, al, vis);
+                dfs(i, -1, al, vis);
             }
         }
 
-        if (redundantEdges >= components - 1) {
-            return components - 1;
-        }
-        return -1;
+        // If there are enough redundant edges to connect all components
+        return redundantEdges >= components - 1 ? components - 1 : -1;
     }
 
-    public int dfs(int node, int parent, ArrayList<ArrayList<Integer>> al, boolean[] vis) {
+    public void dfs(int node, int parent, ArrayList<ArrayList<Integer>> al, boolean[] vis) {
         vis[node] = true;
-        int extraEdges = 0;
 
         for (int neighbor : al.get(node)) {
             if (!vis[neighbor]) {
-                extraEdges += dfs(neighbor, node, al, vis);
+                dfs(neighbor, node, al, vis);
             } else if (neighbor != parent) {
-                extraEdges++; // Found a cycle (redundant edge)
+                // Only count the redundant edge if (node, neighbor) is the first encounter of the cycle
+                redundantEdges++;
             }
         }
-        return extraEdges;
     }
 }
