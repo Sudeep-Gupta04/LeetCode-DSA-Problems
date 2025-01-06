@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1036-rotting-oranges) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -919,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
