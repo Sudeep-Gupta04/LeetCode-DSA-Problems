@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1524-string-matching-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
