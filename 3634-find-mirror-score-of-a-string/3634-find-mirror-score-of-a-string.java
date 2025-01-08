@@ -1,5 +1,3 @@
-import java.util.HashMap;
-import java.util.ArrayList;
 
 class Solution {
     public long calculateScore(String s) {
@@ -9,7 +7,9 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             char real = s.charAt(i);
             int ch = s.charAt(i);
-            char rev = (char)(219 - ch); // Calculate the mirror character
+            char rev;
+            if(ch<=109) rev = (char)(122-(ch-97));
+			else rev = (char)(97+(122-ch));
 
             if (!hm.containsKey(rev)) {
                 if (!hm.containsKey(real)) {
@@ -23,11 +23,15 @@ class Solution {
                 }
             } else {
                 ArrayList<Integer> t2 = hm.get(rev);
-                int j = t2.remove(t2.size() - 1); 
-                score += Math.abs(i - j); 
-                if (t2.isEmpty()) {
-                    hm.remove(rev);
-                }
+				if(t2.size()>1) {
+					score +=   (i - (t2.get(t2.size()-1)));
+					t2.remove(t2.size()-1);
+					hm.put(rev,t2);
+				}else{
+					score += (i - (t2.get(t2.size()-1)));
+					t2.remove(t2.size()-1);
+					hm.remove(rev);
+				}
             }
         }
         return score;
