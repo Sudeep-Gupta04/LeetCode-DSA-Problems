@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2465-shifting-letters-ii) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2580-circular-sentence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
