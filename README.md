@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1364-tuple-with-same-product) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1036-rotting-oranges) |
