@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Sorting
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Heap (Priority Queue)
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Dynamic Programming
