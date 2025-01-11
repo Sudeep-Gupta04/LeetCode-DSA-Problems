@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3678-design-task-manager) |
+| [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Dynamic Programming
 |  |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
 ## Stack
 |  |
 | ------- |
