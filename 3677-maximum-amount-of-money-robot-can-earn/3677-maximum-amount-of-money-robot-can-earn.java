@@ -1,11 +1,11 @@
 class Solution {
     public int maximumAmount(int[][] coins) {
-        int rows = coins.length;
-        int cols = coins[0].length;
-        int[][][] dp = new int[rows][cols][3]; 
+        int n = coins.length;
+        int m = coins[0].length;
+        int[][][] dp = new int[n][m][3]; // 3rd dimension for negation count (0, 1, or 2)
         
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
                 Arrays.fill(dp[i][j], -1);
             }
         }
@@ -13,30 +13,33 @@ class Solution {
         return helper(coins, dp, 0, 0, 2);
     }
 
-    private int helper(int[][] coins, int[][][] dp, int i, int j, int negations) {
+    private int helper(int[][] coins, int[][][] dp, int i, int j, int n) {
         if (i >= coins.length || j >= coins[0].length) {
-            return Integer.MIN_VALUE;
+            return -1000000000; // Large negative value for invalid paths
         }
         if (i == coins.length - 1 && j == coins[0].length - 1) {
-            if (coins[i][j] < 0 && negations > 0) {
-                return 0;
+            if (coins[i][j] < 0 && n > 0) {
+                return 0; // Neutralize negative coin to 0
             } else {
                 return coins[i][j];
             }
         }
-        if (dp[i][j][negations] != -1) {
-            return dp[i][j][negations]; 
+        if (dp[i][j][n] != -1) {
+            return dp[i][j][n];
         }
 
-        int val = coins[i][j];
-        int nutral = Integer.MIN_VALUE;
-        int normal = val + Math.max(helper(coins, dp, i + 1, j, negations), helper(coins, dp, i, j + 1, negations));
+        int nd = -1000000000; // Neutralized down
+        int nr = -1000000000; // Neutralized right
 
-        if (val < 0 && negations > 0) {
-            nutral = Math.max(helper(coins, dp, i + 1, j, negations - 1), helper(coins, dp, i, j + 1, negations - 1));
+        if (coins[i][j] < 0 && n > 0) { 
+            nd = helper(coins, dp, i + 1, j, n - 1);
+            nr = helper(coins, dp, i, j + 1, n - 1);
         }
 
-        dp[i][j][negations] = Math.max(normal, nutral);
-        return dp[i][j][negations];
+        int down = coins[i][j] + helper(coins, dp, i + 1, j, n);
+        int right = coins[i][j] + helper(coins, dp, i, j + 1, n);
+
+        dp[i][j][n] = Math.max(Math.max(down, right), Math.max(nd, nr));
+        return dp[i][j][n];
     }
 }
