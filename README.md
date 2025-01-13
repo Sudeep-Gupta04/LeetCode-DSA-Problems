@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3678-design-task-manager) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3427-special-array-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3394-minimum-array-end) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Graph
 |  |
 | ------- |
