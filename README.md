@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
