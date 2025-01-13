@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
