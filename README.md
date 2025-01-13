@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3678-design-task-manager) |
 | [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3634-find-mirror-score-of-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Array
 |  |
 | ------- |
