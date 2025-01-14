@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3678-design-task-manager) |
 | [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3634-find-mirror-score-of-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Heap (Priority Queue)
