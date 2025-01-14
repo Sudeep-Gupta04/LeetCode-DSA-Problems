@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3634-find-mirror-score-of-a-string) |
 | [3678-design-task-manager](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3678-design-task-manager) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2122-count-special-quadruplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
 ## Stack
