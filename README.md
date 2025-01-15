@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2509-minimize-xor](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
