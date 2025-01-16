@@ -1,56 +1,29 @@
 class Solution {
+    
+    public boolean isStretchy(String s, String word){
+        int i = 0, j = 0;
+        while(i < s.length() && j < word.length()){
+            if(s.charAt(i) != word.charAt(j))
+                return false;
+            int x = i, y = j;
+            while(x < s.length() && s.charAt(x) == s.charAt(i))
+                x++;
+            while(y < word.length() && word.charAt(y) == word.charAt(j))
+                y++;
+            if(y-j > x-i || (x-i > y-j && x-i < 3))
+                return false;
+            i = x;
+            j = y;
+        }
+        return (i == s.length() && j == word.length());
+    }
+    
     public int expressiveWords(String s, String[] words) {
-        ArrayList<Integer> al = new ArrayList<>();
-        s = s+ "/";
-        int c=0;
-        al.add(-1);
-        for(int i =0;i<s.length()-1;i++){
-            if (s.charAt(i) == s.charAt(i + 1) && c == 0) {
-                c = 1;
-            } else if (s.charAt(i) != s.charAt(i + 1)) {
-                c = 0;
-                //al.add(start);
-                al.add(i);
-            }
+        int count = 0;
+        for(String word : words){
+            if(isStretchy(s, word))
+                count++;
         }
-        c=0;
-        int ans=0;
-        int count =0;
-        for(String st:words){
-            st = st+"/";
-            ArrayList<Integer> temp = new ArrayList<>();
-            temp.add(-1);
-            for(int i =0;i<st.length()-1;i++){
-                if (st.charAt(i) == st.charAt(i + 1) && c == 0) {
-                    c = 1;
-                } else if (st.charAt(i) != st.charAt(i + 1)) {
-                    c = 0;
-                    temp.add(i);
-                }
-            }
-            if(temp.size()!=al.size()){
-                c=1;
-                break;
-            }
-            for(int i=0;i<al.size()-1;i++){
-                int ls = al.get(i+1)-al.get(i);
-                char chls = s.charAt(al.get(i)+1);
-                int length = temp.get(i+1) - temp.get(i);
-                char chwords = st.charAt(temp.get(i)+1);
-                if(chls!=chwords){
-                    c=1;break;
-                }
-                if(ls<length){
-                    c=1;break;
-                }
-                if(ls<=2){
-                    if(ls!=length){
-                        c=1;break;
-                    }
-                }
-            }
-            if(c==0) ans++;
-        }
-        return ans;
+        return count;
     }
 }
