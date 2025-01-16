@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0805-escape-the-ghosts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0805-escape-the-ghosts) |
+| [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
@@ -575,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -1002,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0386-lexicographical-numbers) |
+| [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bitmask
 |  |
