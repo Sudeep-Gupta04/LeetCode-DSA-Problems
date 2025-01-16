@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0827-expressive-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0827-expressive-words) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0812-rotate-string) |
+| [0827-expressive-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0827-expressive-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0805-escape-the-ghosts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0805-escape-the-ghosts) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
+| [0827-expressive-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0827-expressive-words) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
