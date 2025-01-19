@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1364-tuple-with-same-product) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0853-most-profit-assigning-work) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
 | [1364-tuple-with-same-product](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
