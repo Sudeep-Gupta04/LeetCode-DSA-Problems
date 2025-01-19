@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0876-hand-of-straights](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0876-hand-of-straights) |
+| [0881-loud-and-rich](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0881-loud-and-rich) |
 | [0883-car-fleet](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0881-loud-and-rich) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2455-node-with-highest-edge-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2455-node-with-highest-edge-score) |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0881-loud-and-rich](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0881-loud-and-rich) |
 ## Trie
 |  |
 | ------- |
