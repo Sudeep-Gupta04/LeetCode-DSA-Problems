@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0868-push-dominoes) |
 | [0886-score-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0926-find-and-replace-pattern](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
