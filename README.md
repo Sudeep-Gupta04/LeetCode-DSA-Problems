@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2145-grid-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2145-grid-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2465-shifting-letters-ii) |
 | [3031-construct-product-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3031-construct-product-matrix) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2145-grid-game) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2411-spiral-matrix-iv) |
