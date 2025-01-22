@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0805-escape-the-ghosts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0805-escape-the-ghosts) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0886-score-of-parentheses) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0883-car-fleet) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
