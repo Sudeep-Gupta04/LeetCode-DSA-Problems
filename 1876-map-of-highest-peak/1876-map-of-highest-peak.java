@@ -2,12 +2,16 @@ class Solution {
     public int[][] highestPeak(int[][] isWater) {
         int n = isWater.length;int m = isWater[0].length;
         int[][] ans = new int[n][m];
+        for (int[] row : ans) {
+            Arrays.fill(row, -1);
+        }
         Queue<Point> q = new ArrayDeque<>();
         HashSet<Point> hs = new HashSet<>();
         for(int i =0;i<isWater.length;i++){
             for(int j =0;j<isWater[0].length;j++){
                 if(isWater[i][j]==1) {
-                    hs.add(new Point(i,j));
+                    ans[i][j]=0;
+                    //hs.add(new Point(i,j));
                     q.add(new Point(i,j));
                 }
             }
@@ -20,7 +24,7 @@ class Solution {
                 int newx = p.x+x[i];
                 int newy = p.y+y[i];
                 if((newx<0) || (newx>=n) || (newy<0) || (newy>=m)) continue;
-                else if(ans[newx][newy]==0 && !hs.contains(new Point(newx,newy))){
+                else if(ans[newx][newy]==-1){
                     ans[newx][newy] = 1+ans[p.x][p.y];
                     q.add(new Point(newx,newy));
                 }
