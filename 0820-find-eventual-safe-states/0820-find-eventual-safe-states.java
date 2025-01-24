@@ -1,39 +1,44 @@
-class Solution {
-     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int n = graph.length;
-        int[] otd = new int[n];
-        ArrayList<ArrayList<Integer>> al = new ArrayList<>();
-        for(int i =0;i<n;i++) al.add(new ArrayList<>());
+import java.util.*;
 
-        for(int i =0;i<n;i++){
-            for(int j =0;j<graph[i].length;j++){
-                otd[i]++;
-                al.get(i).add(graph[i][j]);
+class Solution {
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+        int n = graph.length;
+        HashSet<Integer> safeNodes = new HashSet<>();
+        HashSet<Integer> notAnswer = new HashSet<>();
+        boolean[] visited = new boolean[n];
+
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                dfs(i, graph, safeNodes, notAnswer, visited);
             }
         }
-        HashSet<Integer> list = new HashSet<>();
-        boolean[] vis = new boolean[n];
-        for(int i =0;i<n;i++){
-            if(!vis[i]){
-                helper(i,al,list,vis);
-            }
-        }
-       
-        Integer[] array = list.toArray(new Integer[0]);
+
+        // Convert the safe nodes to a sorted list
+        Integer[] array = safeNodes.toArray(new Integer[0]);
         Arrays.sort(array);
         return List.of(array);
     }
-    public boolean helper(int n, ArrayList<ArrayList<Integer>> al,HashSet<Integer> ans,boolean[] vis){
-        vis[n] = true;
-        boolean possible = true;
-        for(int i:al.get(n)){
-            if(!vis[i] && ans.contains(i)) return true;
-            else if(!vis[i]){
-                possible = possible && helper(i,al,ans,vis);
+
+    public boolean dfs(int node, int[][] graph, HashSet<Integer> safeNodes, HashSet<Integer> notAnswer, boolean[] visited) {
+        if (notAnswer.contains(node)) return false; // Node is unsafe
+        if (safeNodes.contains(node)) return true; // Node is already confirmed as safe
+
+        visited[node] = true;
+        boolean isSafe = true;
+
+        for (int neighbor : graph[node]) {
+            if (!visited[neighbor]) {
+                isSafe = isSafe && dfs(neighbor, graph, safeNodes, notAnswer, visited);
+            } else if (notAnswer.contains(neighbor) || !safeNodes.contains(neighbor)) {
+                isSafe = false;
             }
-            else if(vis[i] && !ans.contains(i)) return false;
         }
-        if(possible) ans.add(n);
-        return possible;
+
+        if (isSafe) {
+            safeNodes.add(node); // Mark the node as safe
+        } else {
+            notAnswer.add(node); // Mark the node as unsafe
+        }
+        return isSafe;
     }
 }
