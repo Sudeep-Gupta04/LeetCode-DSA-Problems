@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0876-hand-of-straights) |
 | [0891-score-after-flipping-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0891-score-after-flipping-matrix) |
+| [1139-previous-permutation-with-one-swap](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
+| [1139-previous-permutation-with-one-swap](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
