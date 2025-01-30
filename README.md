@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1139-previous-permutation-with-one-swap) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0868-push-dominoes) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0954-maximum-sum-circular-subarray) |
+| [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
