@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-card-flipping-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0842-card-flipping-game) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0853-most-profit-assigning-work) |
+| [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0876-hand-of-straights](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0881-loud-and-rich) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1036-rotting-oranges) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -1189,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
