@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1032-satisfiability-of-equality-equations) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
