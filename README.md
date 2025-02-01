@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1364-tuple-with-same-product) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
