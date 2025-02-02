@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0876-hand-of-straights) |
 | [0891-score-after-flipping-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0891-score-after-flipping-matrix) |
+| [1081-video-stitching](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1081-video-stitching) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
+| [1081-video-stitching](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1139-previous-permutation-with-one-swap) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
+| [1081-video-stitching](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
