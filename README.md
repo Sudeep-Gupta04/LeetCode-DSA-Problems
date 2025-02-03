@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0143-reorder-list) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0179-largest-number) |
