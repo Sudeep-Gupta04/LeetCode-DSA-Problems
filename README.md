@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0115-distinct-subsequences) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0054-spiral-matrix) |
