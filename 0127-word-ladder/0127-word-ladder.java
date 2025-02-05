@@ -1,52 +1,52 @@
 class Solution {
      public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        if(!wordList.contains(endWord)) return 0;
+    if (!wordList.contains(endWord)) return 0;
 
-        HashMap<String,List<String>> words = new HashMap<>();
-        if(!wordList.contains(beginWord)) wordList.add(beginWord);
-        for(int i =0;i<wordList.size();i++){
-            String w1 = wordList.get(i);
-            for(int j =0;j<wordList.size();j++){
-                String w2 = wordList.get(j);
-                int c =0;
-                if(w2.length()!=w1.length()) continue;
-                for(int k =0;k<w1.length();k++){
-                    if(w1.charAt(k)!=w2.charAt(k)) c++;
-                }
-                if (c == 1) {
-                    List<String> temp;
-                    if(!words.containsKey(w1)){
-                        temp = new ArrayList<>();
-                        temp.add(w2);
-                    }else{
-                        temp = words.get(w1);
-                        temp.add(w2);
-                    }
-                    words.put(w1,temp);
-                }
-            }
+    // Create a set of words for O(1) lookup
+    Set<String> wordSet = new HashSet<>(wordList);
+    wordSet.add(beginWord);
+
+    // Build the wildcard map
+    HashMap<String, List<String>> wildcardMap = new HashMap<>();
+    for (String word : wordSet) {
+        for (int i = 0; i < word.length(); i++) {
+            String pattern = word.substring(0, i) + "*" + word.substring(i + 1);
+            wildcardMap.putIfAbsent(pattern, new ArrayList<>());
+            wildcardMap.get(pattern).add(word);
         }
-        int c = 0;
-        HashSet<String> hs = new HashSet<>();
-        Queue<String> q = new ArrayDeque<>();
-        hs.add(beginWord);q.add(beginWord);
-        while(!q.isEmpty()){
-            int size = q.size();
-            for (int i =0;i<size;i++){
-                String st = q.remove();
-                if(st.equals(endWord)) return c+1;
-                if(words.containsKey(st)){
-                    List<String> ql = words.get(st);
-                    for(String s:ql){
-                        if(!hs.contains(s)){
-                            q.add(s);
-                            hs.add(s);
+    }
+
+    // BFS setup
+    Queue<String> q = new ArrayDeque<>();
+    Set<String> visited = new HashSet<>();
+    q.add(beginWord);
+    visited.add(beginWord);
+    int level = 1; // start from the beginWord
+
+    // BFS to find the shortest transformation sequence
+    while (!q.isEmpty()) {
+        int size = q.size();
+        for (int i = 0; i < size; i++) {
+            String currentWord = q.poll();
+            for (int j = 0; j < currentWord.length(); j++) {
+                String pattern = currentWord.substring(0, j) + "*" + currentWord.substring(j + 1);
+                if (wildcardMap.containsKey(pattern)) {
+                    for (String neighbor : wildcardMap.get(pattern)) {
+                        if (neighbor.equals(endWord)) {
+                            return level + 1;
+                        }
+                        if (!visited.contains(neighbor)) {
+                            visited.add(neighbor);
+                            q.add(neighbor);
                         }
                     }
                 }
             }
-            c++;
         }
-        return 0;
+        level++;
     }
+
+    return 0;
+}
+
 }
