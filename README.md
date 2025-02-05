@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1127-last-stone-weight](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1127-last-stone-weight) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
