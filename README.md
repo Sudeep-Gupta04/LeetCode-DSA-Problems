@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0805-escape-the-ghosts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0805-escape-the-ghosts) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0827-expressive-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0827-expressive-words) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0853-most-profit-assigning-work) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
@@ -1026,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
@@ -1076,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0891-score-after-flipping-matrix) |
@@ -1302,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
