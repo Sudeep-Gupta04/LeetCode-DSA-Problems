@@ -12,7 +12,7 @@ class Solution {
         if (i == s1.length() && j == s2.length()) {
             return s3.equals(c);
         }
-        String key = i + "," + j;
+        String key = c+ "," + i + "," + j;
         if (memo.containsKey(key)) return memo.get(key);
 
         boolean p1 = false, p2 = false;
