@@ -1,24 +1,28 @@
 class Solution {
-    public String clearDigits(String s) {
-        Stack<Character> st = new Stack<>();
-        for(int i =0;i<s.length();i++){
-            int asci = (int)s.charAt(i);
-            if((asci>=97 && asci<=122) || st.isEmpty()){
-                st.add(s.charAt(i));
+    public String clearDigits(String s)
+    {
+        int len = s.length();
+        StringBuilder str = new StringBuilder ();
+        int i=-1;
+
+        for(int j=0;j<len;j++)
+        {
+            char c = s.charAt(j);
+            if(c>='a' && c<='z')
+            {
+                i++;
+                str.append(c);
             }
+                
             else{
-                if(!st.isEmpty()){
-                    int asci2 = (int)st.peek();
-                    if(asci2>=97 && asci2<=122) st.pop();
-                    else st.add(s.charAt(i));
-                }else st.add(s.charAt(i));
+                if(i>=0)
+                {
+                    str.deleteCharAt(i);
+                    i--;
+                }
             }
         }
-        StringBuilder sb = new StringBuilder("");
-        while(!st.isEmpty()){
-            sb = sb.append(st.pop());
-            
-        }
-        return sb.reverse().toString();
+
+        return str.toString();
     }
 }
