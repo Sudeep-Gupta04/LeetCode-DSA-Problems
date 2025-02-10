@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
+| [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1876-map-of-highest-peak) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1048,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1097,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1325,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Ordered Set
 |  |
