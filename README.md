@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -1280,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Doubly-Linked List
 |  |
 | ------- |
