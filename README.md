@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2383-add-two-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0888-mirror-reflection) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
