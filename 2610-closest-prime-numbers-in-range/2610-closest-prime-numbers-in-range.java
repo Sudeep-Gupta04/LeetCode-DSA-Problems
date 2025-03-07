@@ -1,9 +1,46 @@
 class Solution {
-     public int[] closestPrimes(int left, int right) {
-        ArrayList<Integer> al = new ArrayList<>();
-        for(int i = left;i<=right;i++){
-            if(prime(i)) al.add(i);
+    public static ArrayList<Integer> findPrimesInRange(int low, int high) {
+        ArrayList<Integer> primes = new ArrayList<>();
+        if (low > high) return primes;
+
+        int sqrtHigh = (int) Math.sqrt(high);
+        boolean[] isPrime = new boolean[sqrtHigh + 1];
+        Arrays.fill(isPrime, true);
+        isPrime[0] = isPrime[1] = false;
+
+        for (int i = 2; i * i <= sqrtHigh; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j <= sqrtHigh; j += i) {
+                    isPrime[j] = false;
+                }
+            }
         }
+
+        ArrayList<Integer> basePrimes = new ArrayList<>();
+        for (int i = 2; i <= sqrtHigh; i++) {
+            if (isPrime[i]) basePrimes.add(i);
+        }
+
+        boolean[] isPrimeInRange = new boolean[high - low + 1];
+        Arrays.fill(isPrimeInRange, true);
+
+        for (int prime : basePrimes) {
+            int start = Math.max(prime * prime, (low + prime - 1) / prime * prime);
+            for (int j = start; j <= high; j += prime) {
+                isPrimeInRange[j - low] = false;
+            }
+        }
+
+        for (int i = 0; i < isPrimeInRange.length; i++) {
+            if (isPrimeInRange[i] && (i + low) > 1) {
+                primes.add(i + low);
+            }
+        }
+
+        return primes;
+    }
+     public int[] closestPrimes(int left, int right) {
+        ArrayList<Integer> al = findPrimesInRange(left,right);
         if(al.size()<2){
             return new int[]{-1,-1};
         }
