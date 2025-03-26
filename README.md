@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-sum-of-beauty-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2181-smallest-index-with-equal-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2411-spiral-matrix-iv) |
