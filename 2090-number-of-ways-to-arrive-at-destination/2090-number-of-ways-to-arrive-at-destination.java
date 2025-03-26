@@ -40,7 +40,7 @@ class Solution {
 
         while (!pq.isEmpty()) {
             Point p = pq.poll();
-            if (p.y > dis[(int) p.x]) continue;
+
 
             for (Point i : al.get((int) p.x)) {
                 long cstReachingX = p.y + i.y;
