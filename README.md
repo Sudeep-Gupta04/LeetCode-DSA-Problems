@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3031-construct-product-matrix) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
