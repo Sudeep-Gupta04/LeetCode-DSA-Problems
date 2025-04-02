@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0888-mirror-reflection) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1048-clumsy-factorial](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1048-clumsy-factorial) |
 | [1070-convert-to-base-2](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1070-convert-to-base-2) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1302,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0937-online-stock-span) |
+| [1048-clumsy-factorial](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1048-clumsy-factorial) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1048-clumsy-factorial](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1048-clumsy-factorial) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
