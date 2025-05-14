@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -1165,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -1299,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2455-node-with-highest-edge-score) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3189-find-champion-ii) |
@@ -1412,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2439-longest-cycle-in-a-graph) |
 ## Trie
 |  |
 | ------- |
