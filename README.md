@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Binary Indexed Tree
 |  |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Memoization
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
