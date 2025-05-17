@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1364-tuple-with-same-product](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1364-tuple-with-same-product) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1447-jump-game-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1447-jump-game-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1447-jump-game-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1447-jump-game-iv) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
