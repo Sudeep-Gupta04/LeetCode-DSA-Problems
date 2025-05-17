@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1755-defuse-the-bomb) |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1876-map-of-highest-peak) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1250,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1972-rotating-the-box) |
@@ -1510,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2101-last-day-where-you-can-still-cross) |
