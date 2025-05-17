@@ -1008,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -1341,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2455-node-with-highest-edge-score) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3189-find-champion-ii) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
