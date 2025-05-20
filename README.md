@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2465-shifting-letters-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -1284,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1370,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2455-node-with-highest-edge-score) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -1492,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2472-build-a-matrix-with-conditions) |
 ## Trie
 |  |
 | ------- |
