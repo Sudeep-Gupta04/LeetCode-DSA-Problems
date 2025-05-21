@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1364-tuple-with-same-product](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1364-tuple-with-same-product) |
+| [1380-number-of-closed-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
+| [1380-number-of-closed-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1428-jump-game-iii) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1120-flower-planting-with-no-adjacent](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
+| [1380-number-of-closed-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1283,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -1562,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
+| [1380-number-of-closed-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
