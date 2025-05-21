@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0959-3sum-with-multiplicity](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0959-3sum-with-multiplicity) |
+| [0971-shortest-bridge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
+| [0971-shortest-bridge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -1280,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0921-spiral-matrix-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
