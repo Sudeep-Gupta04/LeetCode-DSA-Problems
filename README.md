@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3678-design-task-manager](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3678-design-task-manager) |
@@ -1369,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1425,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2671-shortest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3189-find-champion-ii) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1434,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2122-count-special-quadruplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
@@ -1626,6 +1630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Minimum Spanning Tree
 |  |
