@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
+| [0833-bus-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0833-bus-routes) |
 | [0839-short-encoding-of-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0839-short-encoding-of-words) |
 | [0842-card-flipping-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0842-card-flipping-game) |
 | [0876-hand-of-straights](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0876-hand-of-straights) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0805-escape-the-ghosts) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0827-expressive-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0827-expressive-words) |
+| [0833-bus-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0833-bus-routes) |
 | [0839-short-encoding-of-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0839-short-encoding-of-words) |
 | [0842-card-flipping-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0842-card-flipping-game) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0852-friends-of-appropriate-ages) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0820-find-eventual-safe-states) |
+| [0833-bus-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
