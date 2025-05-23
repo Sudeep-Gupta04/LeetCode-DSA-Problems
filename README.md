@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1023-time-based-key-value-store) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
@@ -1425,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2671-shortest-cycle-in-a-graph) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3189-find-champion-ii) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3217-number-of-possible-sets-of-closing-branches) |
@@ -1630,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Minimum Spanning Tree
