@@ -1413,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1612,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2035-count-sub-islands) |
