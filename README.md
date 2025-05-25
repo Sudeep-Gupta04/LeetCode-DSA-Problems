@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -1005,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0753-open-the-lock) |
@@ -1224,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1602,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
