@@ -6,9 +6,8 @@ class Solution {
 
         HashMap<String, Integer> mp = new HashMap<>();
 
-        // Union accounts if they share the same email
         for (int i = 0; i < n; i++) {
-            // ✅ skip the name (index 0)
+
             for (int j = 1; j < accounts.get(i).size(); j++) {
                 String email = accounts.get(i).get(j);
                 if (!mp.containsKey(email)) {
