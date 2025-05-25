@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2125-gcd-sort-of-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2125-gcd-sort-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2122-count-special-quadruplets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2122-count-special-quadruplets) |
+| [2125-gcd-sort-of-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2125-gcd-sort-of-an-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2125-gcd-sort-of-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2125-gcd-sort-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -1575,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0888-mirror-reflection) |
+| [2125-gcd-sort-of-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2125-gcd-sort-of-an-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1613,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2125-gcd-sort-of-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2125-gcd-sort-of-an-array) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
