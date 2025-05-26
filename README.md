@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
+| [1684-find-latest-group-of-size-m](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1684-find-latest-group-of-size-m) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1830-count-good-meals) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1684-find-latest-group-of-size-m](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1684-find-latest-group-of-size-m) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1755-defuse-the-bomb) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1684-find-latest-group-of-size-m](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1684-find-latest-group-of-size-m) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -1495,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1048-clumsy-factorial) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [1684-find-latest-group-of-size-m](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1684-find-latest-group-of-size-m) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
