@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
