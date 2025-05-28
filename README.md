@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
+| [0629-k-inverse-pairs-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
