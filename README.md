@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Binary Indexed Tree
 |  |
