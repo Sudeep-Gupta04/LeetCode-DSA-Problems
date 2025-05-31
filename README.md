@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3699-count-special-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3699-count-special-subsequences) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## Tree
 |  |
 | ------- |
