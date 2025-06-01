@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0539-minimum-time-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0552-student-attendance-record-ii) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0572-subtree-of-another-tree) |
