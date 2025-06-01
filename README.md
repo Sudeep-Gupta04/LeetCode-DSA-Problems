@@ -817,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [0949-cat-and-mouse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0949-cat-and-mouse) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0954-maximum-sum-circular-subarray) |
+| [0956-number-of-music-playlists](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0956-number-of-music-playlists) |
 | [0972-knight-dialer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0888-mirror-reflection) |
 | [0923-super-egg-drop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0923-super-egg-drop) |
 | [0949-cat-and-mouse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0949-cat-and-mouse) |
+| [0956-number-of-music-playlists](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0956-number-of-music-playlists) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1048-clumsy-factorial](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1048-clumsy-factorial) |
 | [1070-convert-to-base-2](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1070-convert-to-base-2) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
+| [0956-number-of-music-playlists](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0956-number-of-music-playlists) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## Tree
