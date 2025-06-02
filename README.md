@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
@@ -1160,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0831-largest-sum-of-averages](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0831-largest-sum-of-averages) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0937-online-stock-span) |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0419-battleships-in-a-board) |
