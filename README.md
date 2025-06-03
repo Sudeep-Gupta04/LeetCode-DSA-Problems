@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0075-sort-colors) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
@@ -1364,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0079-word-search) |
