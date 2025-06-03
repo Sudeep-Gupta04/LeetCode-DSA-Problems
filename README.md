@@ -822,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0552-student-attendance-record-ii) |
+| [0576-out-of-boundary-paths](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0576-out-of-boundary-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
