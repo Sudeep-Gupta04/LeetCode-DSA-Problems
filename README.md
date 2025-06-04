@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0198-house-robber) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0213-house-robber-ii) |
@@ -1382,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
