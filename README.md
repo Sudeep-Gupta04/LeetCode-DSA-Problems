@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3427-special-array-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3429-special-array-i) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -1442,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3031-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Bit Manipulation
 |  |
