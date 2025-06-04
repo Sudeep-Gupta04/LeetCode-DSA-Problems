@@ -1,13 +1,13 @@
 class Solution {
-    int[][][][] dp;
+    int[][][] dp;
     int n;int m;
     public int cherryPickup(int[][] grid) {
         n = grid.length;
         m = grid[0].length;
-        dp = new int[n][m][n][m];
-        for(int[][][] i:dp){
-            for(int [][] j:i){
-                for(int [] k:j) Arrays.fill(k,-1);
+        dp = new int[n][m][m];
+        for(int[][] i:dp){
+            for(int [] j:i){
+                Arrays.fill(j,-1);
             }
         }
         return helper(0,0,0,m-1,grid);
@@ -15,7 +15,7 @@ class Solution {
     public int helper(int row1, int col1, int row2, int col2,int[][] grid){
         if(col1<0 || col1>=m || col2<0 || col2>=m) return Integer.MIN_VALUE;
         if(row1>=n || row2>=n) return 0;
-        if(dp[row1][col1][row2][col2]!=-1) return dp[row1][col1][row2][col2];
+        if(dp[row1][col1][col2]!=-1) return dp[row1][col1][col2];
         int result = Integer.MIN_VALUE;
         int ans = Integer.MIN_VALUE;
         // int[] x = {1,1,1}; x coddnitae always++
@@ -29,6 +29,6 @@ class Solution {
                 result = Math.max(ans,result);
             }
         }
-        return dp[row1][col1][row2][col2] = result;
+        return dp[row1][col1][col2] = result;
     }
 }
