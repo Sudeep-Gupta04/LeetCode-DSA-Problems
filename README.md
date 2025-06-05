@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-find-latest-group-of-size-m](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1684-find-latest-group-of-size-m) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1583-paint-house-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1583-paint-house-iii) |
 | [1680-count-all-possible-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1680-count-all-possible-routes) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
