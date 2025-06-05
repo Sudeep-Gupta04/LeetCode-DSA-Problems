@@ -56,6 +56,34 @@ class Solution {
         }
         return cost[i][j];
     }
+    public void helper(int n, int m,List<String> grid){
+        Queue<int[]> q = new ArrayDeque<>();
+        q.add(new int[]{0,0,0});
+        int[] x = {0,1,1};
+        int[] y = {1,1,0};
+        while(!q.isEmpty()){
+            int[] ele = q.remove();
+            int sum = ele[0];
+            int i = ele[1];
+            int j = ele[2];
+            //System.out.println(i+" "+j);
+            for(int k =0;k<3;k++){
+                int newx = i + x[k];
+                int newy = j + y[k];
+                if(newx<n && newy<m && grid.get(newx).charAt(newy)!='X'){
+                    int val = Integer.parseInt(grid.get(newx).charAt(newy)+"");
+                    if(cost[newx][newy] < sum + val){
+                        path[newx][newy] = path[i][j];
+                        cost[newx][newy] = sum + val;
+                        q.add(new int[]{cost[newx][newy],newx,newy});
+                    }
+                    else if(cost[newx][newy] == sum + val){
+                        path[newx][newy] = (path[newx][newy]+path[i][j])%mod;
+                    }
+                }
+            }
+        }
+    }
 }
 //  2 3
 //2 X 2
