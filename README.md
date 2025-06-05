@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
@@ -1640,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
