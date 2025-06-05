@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0638-shopping-offers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0576-out-of-boundary-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0629-k-inverse-pairs-array) |
+| [0638-shopping-offers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0650-2-keys-keyboard) |
@@ -1172,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0638-shopping-offers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [0949-cat-and-mouse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0949-cat-and-mouse) |
@@ -1482,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
+| [0638-shopping-offers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0861-flipping-an-image) |
@@ -1648,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
@@ -1699,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Geometry
