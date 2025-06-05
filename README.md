@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
+| [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [1324-where-will-the-ball-fall](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1324-where-will-the-ball-fall) |
 | [1325-path-with-maximum-probability](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1121-partition-array-for-maximum-sum) |
+| [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -1418,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
 | [1324-where-will-the-ball-fall](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1324-where-will-the-ball-fall) |
 | [1380-number-of-closed-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
