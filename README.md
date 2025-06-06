@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Binary Indexed Tree
 |  |
