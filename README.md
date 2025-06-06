@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1127-last-stone-weight) |
+| [1130-last-stone-weight-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1130-last-stone-weight-ii) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1139-previous-permutation-with-one-swap) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1121-partition-array-for-maximum-sum) |
+| [1130-last-stone-weight-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1130-last-stone-weight-ii) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
