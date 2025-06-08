@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3316-find-the-sum-of-subsequence-powers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3316-find-the-sum-of-subsequence-powers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3316-find-the-sum-of-subsequence-powers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
