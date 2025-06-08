@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0805-escape-the-ghosts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0805-escape-the-ghosts) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0827-expressive-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0827-expressive-words) |
 | [0831-largest-sum-of-averages](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0831-largest-sum-of-averages) |
 | [0833-bus-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0833-bus-routes) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0831-largest-sum-of-averages](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
