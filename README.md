@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1489-pizza-with-3n-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1489-pizza-with-3n-slices) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1489-pizza-with-3n-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1489-pizza-with-3n-slices) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1489-pizza-with-3n-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1489-pizza-with-3n-slices) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1489-pizza-with-3n-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1489-pizza-with-3n-slices) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
