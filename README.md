@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0376-wiggle-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0376-wiggle-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0413-arithmetic-slices) |
