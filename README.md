@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0981-delete-columns-to-make-sorted) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1023-time-based-key-value-store](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0971-shortest-bridge) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0981-delete-columns-to-make-sorted) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-number-of-music-playlists](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0956-number-of-music-playlists) |
 | [0967-minimum-falling-path-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0972-knight-dialer) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1081-video-stitching](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1081-video-stitching) |
