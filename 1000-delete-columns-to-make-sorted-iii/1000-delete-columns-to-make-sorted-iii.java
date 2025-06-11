@@ -7,10 +7,10 @@ class Solution {
         for(int col = m-2;col>=0;col--){
             for(int prevcol = col+1;prevcol<m;prevcol++){
                 if(prevcolisValid(col,prevcol,strs)){
-                    System.out.println(col+" "+prevcol+" V");
+                   // System.out.println(col+" "+prevcol+" V");
                     dp[col] = Math.max(dp[col],1 + dp[prevcol]);
                 }else{
-                    System.out.println(col+" "+prevcol+" IV");
+                   // System.out.println(col+" "+prevcol+" IV");
                 }
             }
         }
