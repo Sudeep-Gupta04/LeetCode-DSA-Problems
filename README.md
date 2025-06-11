@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1343-dice-roll-simulation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1343-dice-roll-simulation) |
 | [1364-tuple-with-same-product](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1364-tuple-with-same-product) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1380-number-of-closed-islands](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1332-count-vowels-permutation) |
 | [1343-dice-roll-simulation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1343-dice-roll-simulation) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
