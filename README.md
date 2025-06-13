@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
+| [1290-make-array-strictly-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
+| [1290-make-array-strictly-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [1324-where-will-the-ball-fall](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1324-where-will-the-ball-fall) |
 | [1325-path-with-maximum-probability](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1290-make-array-strictly-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1332-count-vowels-permutation) |
 | [1343-dice-roll-simulation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1343-dice-roll-simulation) |
@@ -1055,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
+| [1290-make-array-strictly-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
