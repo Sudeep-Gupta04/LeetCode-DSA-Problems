@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1160-letter-tile-possibilities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1130-last-stone-weight-ii) |
+| [1170-shortest-common-supersequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
