@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0552-student-attendance-record-ii) |
