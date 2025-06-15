@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2848-special-permutations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2848-special-permutations) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2848-special-permutations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2848-special-permutations) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
