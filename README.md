@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0808-number-of-matching-subsequences) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0852-friends-of-appropriate-ages) |
@@ -1341,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -1488,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
@@ -1827,6 +1832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
 |  |
