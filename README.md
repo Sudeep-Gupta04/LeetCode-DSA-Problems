@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0768-partition-labels) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0740-delete-and-earn) |
