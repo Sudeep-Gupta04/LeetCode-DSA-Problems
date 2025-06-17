@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0952-word-subsets) |
+| [0977-distinct-subsequences-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0977-distinct-subsequences-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0981-delete-columns-to-make-sorted) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1023-time-based-key-value-store](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1023-time-based-key-value-store) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-number-of-music-playlists](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0956-number-of-music-playlists) |
 | [0967-minimum-falling-path-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0972-knight-dialer) |
+| [0977-distinct-subsequences-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0977-distinct-subsequences-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1063-best-sightseeing-pair) |
