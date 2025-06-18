@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
+| [1403-palindrome-partitioning-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-dice-roll-simulation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1343-dice-roll-simulation) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1403-palindrome-partitioning-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
