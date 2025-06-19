@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0650-2-keys-keyboard) |
@@ -1933,5 +1937,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0949-cat-and-mouse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0949-cat-and-mouse) |
 <!---LeetCode Topics End-->
