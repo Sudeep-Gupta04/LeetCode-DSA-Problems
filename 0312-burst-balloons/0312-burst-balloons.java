@@ -8,7 +8,7 @@ class Solution {
             arr[i] = nums[i-1];
         } 
         arr[0] = 1;arr[n+1]=1;
-        System.out.println(Arrays.toString(arr));
+        //System.out.println(Arrays.toString(arr));
         return helper(1,n,arr);
     }
 
