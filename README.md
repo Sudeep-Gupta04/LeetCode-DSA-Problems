@@ -910,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0403-frog-jump) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1942,6 +1944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0909-stone-game) |
 | [0949-cat-and-mouse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0949-cat-and-mouse) |
