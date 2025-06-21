@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
 | [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1680-count-all-possible-routes) |
 | [1684-find-latest-group-of-size-m](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1684-find-latest-group-of-size-m) |
 | [1685-stone-game-v](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1685-stone-game-v) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
 | [1583-paint-house-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1583-paint-house-iii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1680-count-all-possible-routes) |
 | [1685-stone-game-v](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1685-stone-game-v) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
