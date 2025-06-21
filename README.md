@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1680-count-all-possible-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1680-count-all-possible-routes) |
 | [1684-find-latest-group-of-size-m](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1684-find-latest-group-of-size-m) |
+| [1685-stone-game-v](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1685-stone-game-v) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
 | [1583-paint-house-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1583-paint-house-iii) |
 | [1680-count-all-possible-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1680-count-all-possible-routes) |
+| [1685-stone-game-v](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1685-stone-game-v) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
+| [1685-stone-game-v](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1685-stone-game-v) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [1808-stone-game-vii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1808-stone-game-vii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -1964,5 +1967,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0909-stone-game) |
 | [0949-cat-and-mouse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0949-cat-and-mouse) |
+| [1685-stone-game-v](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1685-stone-game-v) |
 | [1808-stone-game-vii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1808-stone-game-vii) |
 <!---LeetCode Topics End-->
