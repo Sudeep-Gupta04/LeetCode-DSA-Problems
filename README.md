@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
+| [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
 | [1580-shuffle-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1583-paint-house-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1583-paint-house-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
 | [1583-paint-house-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1583-paint-house-iii) |
 | [1680-count-all-possible-routes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1680-count-all-possible-routes) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
 | [1635-number-of-good-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [1808-stone-game-vii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1808-stone-game-vii) |
