@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1685-stone-game-v) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -1671,6 +1672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1471-maximum-students-taking-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1471-maximum-students-taking-exam) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1751,6 +1753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2122-count-special-quadruplets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2122-count-special-quadruplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2998-count-symmetric-integers) |
@@ -1839,6 +1842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0787-sliding-puzzle) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Doubly-Linked List
 |  |
