@@ -31,12 +31,13 @@ class Solution {
         List<Integer> com = new ArrayList<>();
         List<Integer> ways = helper2(0,mask,quantity,freq.get(i),com);
         for(int tmask:ways){
-            ans = ans | helper(i+1,freq,quantity,tmask) | helper(i+1,freq,quantity,mask);
+            ans = ans | helper(i+1,freq,quantity,tmask);
             if(ans){
                 dp.put(key,ans);
                 return ans;
             }
         }
+        ans = ans | helper(i+1,freq,quantity,mask);
         dp.put(key,ans);
         return ans;
     }
