@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -1013,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1559-cherry-pickup-ii) |
@@ -1675,6 +1677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1471-maximum-students-taking-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1471-maximum-students-taking-exam) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -1902,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1220-smallest-sufficient-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1471-maximum-students-taking-exam) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [2848-special-permutations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2848-special-permutations) |
 ## Geometry
 |  |
