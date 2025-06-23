@@ -767,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1755-defuse-the-bomb) |
+| [1758-distribute-repeating-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1758-distribute-repeating-integers) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
+| [1758-distribute-repeating-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1758-distribute-repeating-integers) |
 | [1761-count-sorted-vowel-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1808-stone-game-vii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1808-stone-game-vii) |
@@ -1679,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-maximum-students-taking-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1758-distribute-repeating-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1758-distribute-repeating-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1849,6 +1852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1758-distribute-repeating-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1758-distribute-repeating-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Doubly-Linked List
 |  |
@@ -1906,6 +1910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-smallest-sufficient-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1758-distribute-repeating-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1758-distribute-repeating-integers) |
 | [2848-special-permutations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2848-special-permutations) |
 ## Geometry
 |  |
