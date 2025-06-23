@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
 | [1196-filling-bookcase-shelves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1196-filling-bookcase-shelves) |
+| [1220-smallest-sufficient-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1220-smallest-sufficient-team) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1196-filling-bookcase-shelves) |
+| [1220-smallest-sufficient-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1220-smallest-sufficient-team) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1234-number-of-paths-with-max-score) |
@@ -1669,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1022-unique-paths-iii) |
+| [1220-smallest-sufficient-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1220-smallest-sufficient-team) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1471-maximum-students-taking-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1471-maximum-students-taking-exam) |
@@ -1897,6 +1900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1220-smallest-sufficient-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1220-smallest-sufficient-team) |
 | [1471-maximum-students-taking-exam](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [2848-special-permutations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2848-special-permutations) |
 ## Geometry
