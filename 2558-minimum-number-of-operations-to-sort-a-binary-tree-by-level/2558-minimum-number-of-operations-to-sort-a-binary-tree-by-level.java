@@ -16,7 +16,7 @@
 class Solution {
         public int minimumOperations(TreeNode root) {
         List<List<Integer>> outer = new ArrayList<>();
-        if (root == null) return 0; // ✅ fix: match return type
+        if (root == null) return 0;
 
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
