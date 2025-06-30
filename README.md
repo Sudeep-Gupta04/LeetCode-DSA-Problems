@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1023-time-based-key-value-store) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1129-longest-string-chain) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0883-car-fleet) |
 | [0959-3sum-with-multiplicity](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1014-k-closest-points-to-origin](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1129-longest-string-chain](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
@@ -1223,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1273,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1327,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1117-as-far-from-land-as-possible) |
@@ -1570,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
