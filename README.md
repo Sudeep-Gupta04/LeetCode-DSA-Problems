@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0839-short-encoding-of-words) |
 | [0842-card-flipping-game](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0842-card-flipping-game) |
 | [0876-hand-of-straights](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0876-hand-of-straights) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1277,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1330,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0945-snakes-and-ladders) |
@@ -1578,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0881-loud-and-rich) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
