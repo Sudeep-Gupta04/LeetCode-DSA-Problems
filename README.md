@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0669-trim-a-binary-search-tree) |
@@ -1279,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -1322,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0514-freedom-trail) |
@@ -1510,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0355-design-twitter) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1023-time-based-key-value-store) |
@@ -1573,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0419-battleships-in-a-board) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0472-concatenated-words) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
