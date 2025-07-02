@@ -1227,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1246,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1579,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0721-accounts-merge) |
