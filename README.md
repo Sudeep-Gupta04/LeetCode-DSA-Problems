@@ -1218,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1251,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1286,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1523,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1877,6 +1881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -2101,4 +2106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-cat-and-mouse](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0949-cat-and-mouse) |
 | [1685-stone-game-v](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1685-stone-game-v) |
 | [1808-stone-game-vii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1808-stone-game-vii) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
