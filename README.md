@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1304-longest-happy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [1403-palindrome-partitioning-iii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1285-balance-a-binary-search-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1304-longest-happy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-pizza-with-3n-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1489-pizza-with-3n-slices) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1184-car-pooling) |
+| [1304-longest-happy-string](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
