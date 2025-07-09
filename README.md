@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2509-minimize-xor](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2509-minimize-xor) |
+| [2636-maximum-subsequence-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2716-prime-subtraction-operation) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2636-maximum-subsequence-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2636-maximum-subsequence-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2636-maximum-subsequence-score](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2685-first-completely-painted-row-or-column) |
