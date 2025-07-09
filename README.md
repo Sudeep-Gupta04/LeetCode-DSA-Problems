@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-pizza-with-3n-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1489-pizza-with-3n-slices) |
+| [1499-maximum-performance-of-a-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1499-maximum-performance-of-a-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
 | [1571-allocate-mailboxes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1571-allocate-mailboxes) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1489-pizza-with-3n-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1489-pizza-with-3n-slices) |
+| [1499-maximum-performance-of-a-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1499-maximum-performance-of-a-team) |
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1489-pizza-with-3n-slices](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1489-pizza-with-3n-slices) |
+| [1499-maximum-performance-of-a-team](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1524-string-matching-in-an-array) |
