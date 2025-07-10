@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1748-best-team-with-no-conflicts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [1962-single-threaded-cpu](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1962-single-threaded-cpu) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2125-gcd-sort-of-an-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2125-gcd-sort-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-maximum-number-of-eaten-apples](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1962-single-threaded-cpu](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1962-single-threaded-cpu) |
 | [2012-process-tasks-using-servers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2012-process-tasks-using-servers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [1962-single-threaded-cpu](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1972-rotating-the-box) |
 | [2012-process-tasks-using-servers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2012-process-tasks-using-servers) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
