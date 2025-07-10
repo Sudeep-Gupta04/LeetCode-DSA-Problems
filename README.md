@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1503-reducing-dishes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1762-furthest-building-you-can-reach](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1539-diagonal-traverse-ii) |
 | [1622-max-value-of-equation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1622-max-value-of-equation) |
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
+| [1762-furthest-building-you-can-reach](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1755-defuse-the-bomb) |
 | [1758-distribute-repeating-integers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1758-distribute-repeating-integers) |
+| [1762-furthest-building-you-can-reach](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
