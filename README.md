@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3678-design-task-manager](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3678-design-task-manager) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3316-find-the-sum-of-subsequence-powers) |
@@ -1279,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1696,6 +1700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Sudeep-Gupta04/LeetCode-DSA-Problems/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 ## String Matching
 |  |
 | ------- |
